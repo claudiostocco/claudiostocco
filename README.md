@@ -27,7 +27,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   <h3> Operating Systems </h3>
-  <img align="center" alt="Linux" height="30" width="40" src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="40" height="40"/>
+  <img align="center" alt="Windows" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img align="center" alt="Linux" height="30" width="35" src="https://img.icons8.com/color/144/000000/linux--v1.png" />
+
+  <h3> Electronic and Arduino </h3>
+  <img align="center" alt="Arduino" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
   <!---Gif: https://picrew.me/image_maker/338224
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
