@@ -18,7 +18,7 @@
   <!---Technology icons: https://devicon.dev/--->
 <div style="display: inline_block">
   <h3> Back-end and Desktop </h3>
-  <img align="center" alt="Delphi" height="30" width="30" src="delphi-logo-128.jpg">
+  <img align="center" alt="Delphi" height="30" width="30" src="delphi-logo-128.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <h3> Front-end </h3>
