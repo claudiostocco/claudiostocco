@@ -14,6 +14,8 @@
   </a>
 </div>
 <br/>
+
+<hr>
   
   <!---Technology icons: https://devicon.dev/--->
 <div style="display: inline_block">
