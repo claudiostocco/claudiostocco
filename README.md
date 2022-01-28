@@ -16,12 +16,19 @@
 <br/>
   
   <!---Technology icons: https://devicon.dev/--->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Linux" height="30" width="40" src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="40" height="40"/>
+<div style="display: inline_block">
+  <h3> Back-end and Desktop </h3>
+  <img align="center" alt="Delphi" height="30" width="40" src="delphi-logo-128.jpg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <h3> Front-end </h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <h3> OS </h3>
+  <img align="center" alt="Linux" height="30" width="40" src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="40" height="40"/>
+
   <!---Gif: https://picrew.me/image_maker/338224
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 --->
