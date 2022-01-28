@@ -18,7 +18,7 @@
   <!---Technology icons: https://devicon.dev/--->
 <div style="display: inline_block">
   <h3> Back-end and Desktop </h3>
-  <img align="center" alt="Delphi" height="30" width="40" src="delphi-logo-128.jpg">
+  <img align="center" alt="Delphi" height="30" width="30" src="delphi-logo-128.jpg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <h3> Front-end </h3>
@@ -26,7 +26,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <h3> OS </h3>
+  <h3> Operating Systems </h3>
   <img align="center" alt="Linux" height="30" width="40" src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="40" height="40"/>
 
   <!---Gif: https://picrew.me/image_maker/338224
